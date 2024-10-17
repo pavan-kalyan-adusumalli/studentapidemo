@@ -1,0 +1,9 @@
+D:\studentmaintenance\src\main\java\com\example\studentmaintenance\controller\StudentController.java
+D:\studentmaintenance\src\main\java\com\example\studentmaintenance\pojo\Department.java
+D:\studentmaintenance\src\main\java\com\example\studentmaintenance\pojo\Student.java
+D:\studentmaintenance\src\main\java\com\example\studentmaintenance\pojo\Subject.java
+D:\studentmaintenance\src\main\java\com\example\studentmaintenance\repo\DepartmentRepo.java
+D:\studentmaintenance\src\main\java\com\example\studentmaintenance\repo\StudentRepo.java
+D:\studentmaintenance\src\main\java\com\example\studentmaintenance\repo\SubjectRepo.java
+D:\studentmaintenance\src\main\java\com\example\studentmaintenance\service\StudentServiceImpl.java
+D:\studentmaintenance\src\main\java\com\example\studentmaintenance\StudentmaintenanceApplication.java

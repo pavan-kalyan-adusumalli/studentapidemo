@@ -1,0 +1,9 @@
+com\example\studentmaintenance\repo\SubjectRepo.class
+com\example\studentmaintenance\StudentmaintenanceApplication.class
+com\example\studentmaintenance\pojo\Department.class
+com\example\studentmaintenance\pojo\Subject.class
+com\example\studentmaintenance\service\StudentServiceImpl.class
+com\example\studentmaintenance\pojo\Student.class
+com\example\studentmaintenance\controller\StudentController.class
+com\example\studentmaintenance\repo\DepartmentRepo.class
+com\example\studentmaintenance\repo\StudentRepo.class
